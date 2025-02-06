@@ -1,7 +1,7 @@
 {
   "name": "Double Take (beta)",
   "version": "1.13.1",
-  "url": "https://github.com/jakowenko/double-take",
+  "url": "https://github.com/skrashevich/double-take",
   "panel_icon": "mdi:face-recognition",
   "slug": "double-take-beta",
   "description": "Unified UI and API for processing and training images for facial recognition",
